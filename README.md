@@ -33,10 +33,10 @@
 
 <div align="center">
 
-| ☀️ Warm Alabaster Light Mode | 🌑 Calm Charcoal Dark Mode | ➕ Create Daily Ritual |
-| :---: | :---: | :---: |
-| <img src="screenshots/light_home.png" width="240" alt="Light Mode Dashboard"/> | <img src="screenshots/dark_home.png" width="240" alt="Dark Mode Dashboard"/> | <img src="screenshots/add_habit.png" width="240" alt="Add Habit Sheet"/> |
-| *Default Nordic light theme with live Canvas timer* | *Persistent dark theme powered by DataStore* | *Custom habit creation with icons & pastel colors* |
+| ☀️ Light Mode Dashboard | 🌑 Dark Mode Dashboard | ➕ Add Habit (Light) | 🌙 Add Habit (Dark) |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/light_home.png" width="200" alt="Light Mode Dashboard"/> | <img src="screenshots/dark_home.png" width="200" alt="Dark Mode Dashboard"/> | <img src="screenshots/add_habit.png" width="200" alt="Add Habit Light Mode"/> | <img src="screenshots/dark_add_habit.png" width="200" alt="Add Habit Dark Mode"/> |
+| *Default Nordic light theme with live Canvas timer* | *Persistent dark theme powered by DataStore* | *Custom habit creation sheet in light theme* | *Custom habit creation sheet in dark theme* |
 
 </div>
 
